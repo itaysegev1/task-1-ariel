@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Othertry {
+public class Task_One_Ariel {
     static double sum = 0;
 
     public static void main(String[] args) {
